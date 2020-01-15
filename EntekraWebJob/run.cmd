@@ -1,0 +1,1 @@
+dotnet Entekra.WebJob.dll

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EntekraWebJob": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "AppConnection": "Server=.\\\\MSSQLSERVER;Database=Entekra;Trusted_Connection=True;MultipleActiveResultSets=true;Integrated Security=True;"
+      }
+    }
+  }
+}
